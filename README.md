@@ -18,7 +18,7 @@ What is not recorded is not remembered.
 * JPA
 
 
-### Project 📌
+### 📌 Project 
 
 
 <!--
