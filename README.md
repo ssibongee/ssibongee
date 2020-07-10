@@ -2,20 +2,21 @@
 
 What is not recorded is not remembered.
 
-### Profile 🎈
+### 🎈 Profile 
 
 * Yonsei Univ (Mirae) 2013 - 2020 GPA 4.09 / 4.50
 * Samsung SW Youth Academy 2020.03 - 
 
-### I'm currently learning 🌱
+### 🧩 Skills 
+
+`Java` `Spring` `C++` `C` `Python` `MySQL` `JSP` `HTML/CSS` 
+
+### 🌱 I'm currently learning 
 
 * Java 
 * Spring Framework
 * JPA
 
-### Skills 🧩
-
-`Java` `Spring` `C++` `C` `Python` `MySQL` `JSP` `HTML/CSS` 
 
 ### Project 📌
 
