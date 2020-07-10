@@ -1,22 +1,21 @@
 ## Ahn Siwon
 
+What is not recorded is not remembered.
+
 ### Profile 🎈
 
 * Yonsei Univ (Mirae) 2013 - 2020 GPA 4.09 / 4.50
 * Samsung SW Youth Academy 2020.03 - 
 
-### Skills 💻
+### I'm currently learning 🌱
 
-#### Language
-* Java
-* C++
-* Python
+* Java 
+* Spring Framework
+* JPA
 
-#### Back-End
-* Spring-Framework 
+### Skills 🧩
 
-#### Database 
-* MySQL
+`Java` `Spring` `C++` `C` `Python` `MySQL` `JSP` `HTML/CSS` 
 
 ### Project 📌
 
