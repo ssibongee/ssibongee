@@ -1,4 +1,25 @@
-### Hi there 👋
+## Ahn Siwon
+
+### Profile 🎈
+
+* Yonsei Univ (Mirae) 2013 - 2020 GPA 4.09 / 4.50
+* Samsung SW Youth Academy 2020.03 - 
+
+### Skills 💻
+
+#### Language
+* Java
+* C++
+* Python
+
+#### Back-End
+* Spring-Framework 
+
+#### Database 
+* MySQL
+
+### Project 📌
+
 
 <!--
 **doiiollo/doiiollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
