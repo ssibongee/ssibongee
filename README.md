@@ -20,6 +20,15 @@ What is not recorded is not remembered.
 
 ### 📌 Project 
 
+#### 2020
+**HappyHouse**
+* Spring Web Project Using Public Data
+
+
+
+#### 2019
+**Amazon Serverless Data Analytics Hands on Translate**
+* Translate Hands on Wiki
 
 <!--
 **doiiollo/doiiollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
