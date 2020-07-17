@@ -18,7 +18,7 @@ What is not recorded is not remembered.
 * Java 
 * Spring Framework
 * JPA
-
+* JWT 
 
 ### 📌 Project 
 
