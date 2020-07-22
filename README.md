@@ -1,6 +1,6 @@
 ## Ahn Siwon  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-What is not recorded is not remembered.
+기록되지 않은 것은 기억되지 않는다.
 
 ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true)
 
