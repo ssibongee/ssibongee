@@ -11,7 +11,7 @@
 
 ### 🧩 Skills 
 
-`Java` `Spring` `C++` `C` `Python` `MySQL` `JSP` `HTML/CSS` 
+`Java` `Spring` `MySQL` 
 
 <!--
 ### 🌱 I'm currently learning 
