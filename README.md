@@ -6,7 +6,7 @@ What is not recorded is not remembered.
 
 ### 🎈 Profile 
 
-* Yonsei Univ (Mirae) B.S 2013 - 2020 GPA 4.09 / 4.50
+* Computer Science B.S 2013 - 2020 GPA 4.09 / 4.50
 * Samsung SW Youth Academy 2020.01 - 
 
 ### 🧩 Skills 
