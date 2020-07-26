@@ -2,6 +2,7 @@
 
 기록되지 않은 것은 기억되지 않는다.
 
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
 
 ### 🎈 Profile 
@@ -20,6 +21,7 @@
 * Spring Framework
 * JPA
 * JWT 
+* React
 
 ### 📌 Project 
 -->
