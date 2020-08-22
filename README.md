@@ -12,7 +12,7 @@
 
 ### 🧩 Skills 
 
-`Java` `Spring` `MySQL` 
+`Java` `Spring` `MySQL` `C++`
 
 <!--
 ### 🌱 I'm currently learning 
