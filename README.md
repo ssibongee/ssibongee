@@ -14,7 +14,7 @@
 
 `Java` `Spring` `MySQL` `C++`
 
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=doiiollo)](https://solved.ac/doiiollo)
+[![](http://mazassumnida.wtf/api/generate_badge?boj=doiiollo)](https://solved.ac/doiiollo)
 
 
 <!--
