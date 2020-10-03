@@ -3,12 +3,12 @@
 기록되지 않은 것은 기억되지 않는다.
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
+![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true)
 
 ### 🎈 Profile 
 
 * Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50`
-* Samsung SW Youth Academy (2020.01 - )
+* Samsung SW Youth Academy (2020.01 - 2020.08)
 
 ### 🧩 Skills 
 
