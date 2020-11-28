@@ -12,7 +12,7 @@
 
 ### 🧩 Skills 
 
-`Java` `Spring` `MySQL` `C++`
+`Java` `Spring` `JPA` `MyBatis` `MySQL` `C++` `Python`
 
 
 
