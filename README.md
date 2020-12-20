@@ -5,6 +5,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssibongee)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🎈 Profile 
 
 * Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50`
