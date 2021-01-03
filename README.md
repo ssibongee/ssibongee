@@ -9,6 +9,7 @@
 
 ### 🎈 Profile 
 
+* [당근마켓 API 서버 프로젝트](https://github.com/f-lab-edu/daangn-market-used-trading) (2020.12 - )
 * Samsung SW Youth Academy (2020.01 - 2020.08)
   * [DO! 개발자를 위한 블로그 개발 프로젝트](https://github.com/ssibongee/DO)
 * Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50`
