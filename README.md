@@ -7,9 +7,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ssibongee)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="left">
+<br>
+
+<p align="left">
   
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
   
 <a href="https://solved.ac/doiiollo">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=doiiollo">
@@ -17,8 +19,9 @@
 <a href="https://see-one.tistory.com/">
   <img src="http://img.shields.io/badge/blog-black?&logo=github">
   
-</div>
+</p>
 
+<br>
 
 ### 🎈 Profile 
 
