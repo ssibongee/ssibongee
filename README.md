@@ -1,4 +1,4 @@
-## Ahn Siwon  
+## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 기록되지 않은 것은 기억되지 않는다.
 
