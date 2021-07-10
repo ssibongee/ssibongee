@@ -1,13 +1,16 @@
 ## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-기록되지 않은 것은 기억되지 않는다.
+"왜?"라는 물음에 대해 고민하고 토론하기 좋아하는 개발자 입니다. 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssibongee)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ssibongee)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- <p align="left">
   
 <a href="https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
@@ -18,19 +21,38 @@
 <a href="https://see-one.tistory.com/">
   <img src="http://img.shields.io/badge/blog-black?&logo=github">
   
-</p>
+</p> -->
 
-### 🎈 Profile 
+<!-- ### 🧩 Skills  -->
+<!-- - Back-End : 
+  - Java, Kotlin
+  - Spring Boot, Spring MVC, Spring Data JPA
+  - JPA, QueryDsl
+  - JUnit 5, Mockito
+  - IntelliJ, Visual Studio Code
+  - Git
+- Front-End :
+  - JavaScript(ES6), HTML5, CSS3(SCSS)
+  - Vue.js
+- DevOps :
+  - MySQL, Maria DB
+  - Jenkins
+  - Nginx, Tomcat
+  - Pinpoint
+  - Ngrinder
+  - NCP Server, NCP Object Storage, AWS EC2, S3
+- Collaboration
+  - Jira
+  - Slack -->
+<!-- 
 
-* [당근마켓 API 서버 프로젝트](https://github.com/f-lab-edu/daangn-market-used-trading) (2020.12 - )
-* Samsung SW Youth Academy (2020.01 - 2020.08)
-  * [DO! 개발자를 위한 블로그 개발 프로젝트](https://github.com/ssibongee/DO)
-* Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50`
+### 🥑 Toy Projects
+- 
+
+### 🎈 Education 
+* Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50` -->
 
 
-### 🧩 Skills 
-
-`Java` `Spring` `JPA` `MyBatis` `MySQL` `C++` `Python`
 
 
 
