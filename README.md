@@ -1,5 +1,4 @@
-## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <a href="https://hits.seeyoufarm.com" align='right'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%233DACC8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
+## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 - "왜?"라는 물음에 대해 고민하고 토론하기 좋아하는 개발자 Ahn 입니다.
 - 기술적인 문제에 대해 고민하고 파고드는 것을 좋아하며 특히 대용량 트래픽처리와 확장성있는 아키텍처 설계에 관심이 많습니다.
 - "기록되지 않는 것은 기억되지 않는다" 라는 신념을 가지고 문서화와 읽기 좋은 문서를 만드는데 관심이 많습니다.
@@ -32,6 +31,8 @@
 
 ## Activities <img src='https://user-images.githubusercontent.com/54518332/129337533-6248a942-1a18-4406-b150-c9ae827c209e.gif' width='30px'>
 <img src='https://user-images.githubusercontent.com/54518332/129337654-f9a32192-68fa-4397-b63c-2220431469ad.png' width='30px'> <img src='https://img.shields.io/badge/-Today%20I%20Learned%20Study%20Group%202021.02~-%2378fbd2.svg?style=for-the-badge&link=http://right&link=https://github.com/Today-I-Learn'>
+
+<a href="https://hits.seeyoufarm.com" align='right'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%233DACC8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
