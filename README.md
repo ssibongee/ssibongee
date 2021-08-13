@@ -1,4 +1,4 @@
-## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <a href="https://hits.seeyoufarm.com" align='right'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%233DACC8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 - "왜?"라는 물음에 대해 고민하고 토론하기 좋아하는 개발자 Ahn 입니다.
 - 기술적인 문제에 대해 고민하고 파고드는 것을 좋아하며 특히 대용량 트래픽처리와 확장성있는 아키텍처 설계에 관심이 많습니다.
