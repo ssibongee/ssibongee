@@ -21,7 +21,7 @@
 
  <br>
  
-## Experiences
+## Experiences <img src='https://user-images.githubusercontent.com/54518332/129332714-d8940d7c-d4e2-42a8-ad38-d0f2a66dd7c5.gif' width='30px'>
 <img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='30px'> <img src='https://img.shields.io/badge/-Channel%20Corp%202021.08~-%236521ff.svg?style=for-the-badge'>
 <br>
 <img src='https://user-images.githubusercontent.com/54518332/129301294-fc2b430e-14b3-4adb-9e9c-e812dac81434.png' width='30px'> <img src='https://img.shields.io/badge/-Samsung%20SW%20Academy%20For%20Youth%202020.01~%202020.08-%23000000.svg?style=for-the-badge'>
