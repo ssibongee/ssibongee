@@ -5,7 +5,26 @@
 - "기록되지 않는 것은 기억되지 않는다" 라는 신념을 가지고 문서화와 읽기 좋은 문서를 만드는데 관심이 많습니다.
 - 클린 코드와 테스트에 대한 고민을 생활화하고 있습니다.
 
+<br>
 
+## Skills  <img src='https://user-images.githubusercontent.com/54518332/129297935-b083d087-0ef5-4847-af4f-0859c7ec6080.gif' width='30px'>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+ <br>
+ 
+## Experiences
+<img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='30px'> <img src='https://img.shields.io/badge/-Channel%20Corp%202021.08~-%236521ff.svg?style=for-the-badge'>
+<br>
+<img src='https://user-images.githubusercontent.com/54518332/129301294-fc2b430e-14b3-4adb-9e9c-e812dac81434.png' width='30px'> <img src='https://img.shields.io/badge/-Samsung%20SW%20Academy%20For%20Youth%202020.01~%202020.08-%23000000.svg?style=for-the-badge'>
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
