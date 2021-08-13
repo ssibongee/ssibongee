@@ -28,6 +28,11 @@
 <br>
 <img src='https://user-images.githubusercontent.com/54518332/129301294-fc2b430e-14b3-4adb-9e9c-e812dac81434.png' width='30px'> <img src='https://img.shields.io/badge/-Samsung%20SW%20Academy%20For%20Youth%202020.01~%202020.08-%23000000.svg?style=for-the-badge'>
 
+<br>
+
+## Activities <img src='https://user-images.githubusercontent.com/54518332/129337533-6248a942-1a18-4406-b150-c9ae827c209e.gif' width='30px'>
+<img src='https://user-images.githubusercontent.com/54518332/129337654-f9a32192-68fa-4397-b63c-2220431469ad.png' width='30px'> <img src='https://img.shields.io/badge/-Today%20I%20Learned%20Study%20Group%202021.02~-%2378fbd2.svg?style=for-the-badge&link=http://left&link=https://github.com/Today-I-Learn'>
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
 
