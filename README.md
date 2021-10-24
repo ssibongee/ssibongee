@@ -22,6 +22,8 @@
  <br>
  
 ## Experiences <img src='https://user-images.githubusercontent.com/54518332/129332714-d8940d7c-d4e2-42a8-ad38-d0f2a66dd7c5.gif' width='30px'>
+<img src='https://user-images.githubusercontent.com/54518332/138584895-9b86b14f-cb3f-43f1-af77-5d2250cef31f.png' width='30px'> <img src='https://img.shields.io/badge/-NextStep%20Effective%20Kotlin%203th%202021.10~%202021.12-%23323330.svg?style=for-the-badge'>
+<br>
 <img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='30px'> <img src='https://img.shields.io/badge/-Channel%20Corp%202021.08~-%23449fe3.svg?style=for-the-badge'>
 <br>
 <img src='https://user-images.githubusercontent.com/54518332/129332935-642cde15-8ad9-4f97-803b-c534fdf8c276.png' width='30px'> <img src='https://img.shields.io/badge/-F--Lab%20Mentoring%202020.10~%202021.07-%236521ff.svg?style=for-the-badge'>
