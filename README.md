@@ -37,86 +37,11 @@
 <br>
 
 ## Activities <img src='https://user-images.githubusercontent.com/54518332/129337533-6248a942-1a18-4406-b150-c9ae827c209e.gif' width='30px'>
+<div float='left'>
 <img src='https://user-images.githubusercontent.com/54518332/129337654-f9a32192-68fa-4397-b63c-2220431469ad.png' width='30px'> <img src='https://img.shields.io/badge/-Today%20I%20Learned%20Study%20Group%202021.02~-%2378fbd2.svg?style=for-the-badge&link=http://right&link=https://github.com/Today-I-Learn'>
 
 <a href="https://hits.seeyoufarm.com" align='right'><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%233DACC8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ssibongee&show_icons=true) -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ssibongee)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- <p align="left">
-  
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-  
-<a href="https://solved.ac/doiiollo">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=doiiollo">
-  
-<a href="https://see-one.tistory.com/">
-  <img src="http://img.shields.io/badge/blog-black?&logo=github">
-  
-</p> -->
-
-<!-- ### 🧩 Skills  -->
-<!-- - Back-End : 
-  - Java, Kotlin
-  - Spring Boot, Spring MVC, Spring Data JPA
-  - JPA, QueryDsl
-  - JUnit 5, Mockito
-  - IntelliJ, Visual Studio Code
-  - Git
-- Front-End :
-  - JavaScript(ES6), HTML5, CSS3(SCSS)
-  - Vue.js
-- DevOps :
-  - MySQL, Maria DB
-  - Jenkins
-  - Nginx, Tomcat
-  - Pinpoint
-  - Ngrinder
-  - NCP Server, NCP Object Storage, AWS EC2, S3
-- Collaboration
-  - Jira
-  - Slack -->
-<!-- 
-
-### 🥑 Toy Projects
-- 
-
-### 🎈 Education 
-* Computer Science B.S (2013.03 - 2020.02) `GPA 4.09 / 4.50` -->
-
-
-
-
-
-
-<!--
-### 🌱 I'm currently learning 
-
-* Java 
-* Spring Framework
-* JPA
-* JWT 
-* React
-
-### 📌 Project 
--->
-
-
-<!--
-**doiiollo/doiiollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
+ <div float='right'>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssibongee&layout=compact&theme=buefy"/>
+ </div>
