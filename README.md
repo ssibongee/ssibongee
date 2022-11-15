@@ -22,7 +22,9 @@
  <br>
  
  ## Work <img src='https://user-images.githubusercontent.com/54518332/138585008-af966a88-0741-46b2-aab7-f09af0748590.gif' width='30'>
-<img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='30'> <img src='https://img.shields.io/badge/-Channel%20Corp%202021.08~-%23449fe3.svg?style=for-the-badge'>
+<img src='https://user-images.githubusercontent.com/54518332/201807337-ee548d35-7e5f-421c-8fce-8b24de408351.png' width='30'> <img src = 'https://img.shields.io/badge/Toss%20Place%202023.01~-0078d7.svg?style=for-the-badge&logoColor=white'>
+
+<img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='30'> <img src='https://img.shields.io/badge/-Channel%20Corp%202021.08~2022.12-%23449fe3.svg?style=for-the-badge'>
 <br>
 
  <br>
