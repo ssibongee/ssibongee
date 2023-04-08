@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssibongee/)](https://www.linkedin.com/in/ssibongee/) 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:career.ssibongeee@gmail.com)](mailto:career.ssibongee@gmail.com)
 
-Hello, I am server developer who enjoys complex business problems through code. Currently working at [Toss Place](https://tossplace.com/), a company leading the innovation of offline payments in korea. 
+Hello, I am a server developer who enjoys tackling complex business problems through code. Currently, I am working at [Toss Place](https://tossplace.com/), a company at the forefront of innovating offline payments in Korea.
 
-At Toss Place, we are looking for colleagues to join us in revolutionizing the offline payments. [Please join us.](https://toss.im/career/jobs?company=%ED%86%A0%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4&referrer=googleads&gclid=Cj0KCQjwocShBhCOARIsAFVYq0gqeNbLlLX8dNxxWiHzfrooNI7sgTHLmkLHBMNQm1FE2vtDaqLj_xIaAvtXEALw_wcB)
+At Toss Place, we are seeking colleagues to join us in revolutionizing the offline payments industry. We would be delighted if you could [join us.]((https://toss.im/career/jobs?company=%ED%86%A0%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4&referrer=googleads&gclid=Cj0KCQjwocShBhCOARIsAFVYq0gqeNbLlLX8dNxxWiHzfrooNI7sgTHLmkLHBMNQm1FE2vtDaqLj_xIaAvtXEALw_wcB))
 
 ### Experience
 <img src='https://user-images.githubusercontent.com/54518332/201807337-ee548d35-7e5f-421c-8fce-8b24de408351.png' width='15'> Server Developer at Toss Place &nbsp;<sub>(Full-time, Jan 2023 ~)</sub>
