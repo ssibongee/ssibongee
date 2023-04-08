@@ -1,4 +1,22 @@
-## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> 
+## Ahn Siwon  @ssibongee
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssibongee&count_bg=%233DACC8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Wiki](http://img.shields.io/badge/-Wiki-black?style=flat-round&logo=github&link=http://ssibongee.github.io/digital-garden)](https://ssibongee.github.io/digital-garden) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssibongee/)](https://www.linkedin.com/in/ssibongee/) 
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:career.ssibongeee@gmail.com)](mailto:career.ssibongee@gmail.com)
+
+Hello, I am server developer who enjoys complex business problems through code. Currently working at [Toss Place](https://tossplace.com/), a company leading the innovation of offline payments in korea. 
+
+At Toss Place, we are looking for colleagues to join us in revolutionizing the offline payments. [Please join us.](https://toss.im/career/jobs?company=%ED%86%A0%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4&referrer=googleads&gclid=Cj0KCQjwocShBhCOARIsAFVYq0gqeNbLlLX8dNxxWiHzfrooNI7sgTHLmkLHBMNQm1FE2vtDaqLj_xIaAvtXEALw_wcB)
+
+### Experience
+<img src='https://user-images.githubusercontent.com/54518332/201807337-ee548d35-7e5f-421c-8fce-8b24de408351.png' width='15'> Server Developer at Toss Place &nbsp;<sub>(Full-time, Jan 2023 ~)</sub>
+
+<img src='https://user-images.githubusercontent.com/54518332/129298307-188b12b1-4ca4-4dec-9fde-576fadd5f21b.gif' width='15'> Server Developer at Channel Corp &nbsp;<sub>(Full-time, Aug 2021 ~ Dec 2022)</sub>
+
+
+
+<!-- 2023-04-09 -->
+<!-- ## Ahn Siwon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> 
 - "왜?"라는 물음에 대해 고민하고 토론하기 좋아하는 개발자 Ahn 입니다.
 - 기술적인 문제에 대해 고민하고 파고드는 것을 좋아하며 특히 대용량 트래픽처리와 확장성있는 아키텍처 설계에 관심이 많습니다.
 - "기록되지 않는 것은 기억되지 않는다" 라는 신념을 가지고 문서화와 읽기 좋은 문서를 만드는데 관심이 많습니다.
@@ -49,3 +67,4 @@
  <div float='right'>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssibongee&layout=compact&theme=buefy"/>
  </div>
+ -->
